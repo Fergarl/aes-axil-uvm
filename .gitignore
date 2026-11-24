@@ -1,0 +1,18 @@
+# --- Verilator: Compilation folders ---
+obj_dir/
+
+# --- Waves ---
+*.vcd
+*.fst
+
+# --- Logs and regression results ---
+*.log
+logs/
+
+# --- Coverage ---
+coverage.dat
+coverage_html/
+
+# --- Temp files ---
+*.swp
+*~
