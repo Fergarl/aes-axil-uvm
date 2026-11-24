@@ -2,7 +2,7 @@
 
 UVM Testbench for an AES-128 accelerator with AXI4-Lite interface using Verilator
 
-## Status: 
+## Status
 🚧 Work in progress
 
 ## Features
